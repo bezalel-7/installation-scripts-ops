@@ -1,0 +1,2 @@
+For mac {minikube start --memory=4098 --driver=hyperkit}
+(* if you do not specify driver it takes docker as default *)
